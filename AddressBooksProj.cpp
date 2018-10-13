@@ -9,6 +9,7 @@ class singleContactEntry {
     string address;
     string email;
 };
+
 class singleAddressBook {
   public:
     singleContactEntry contactsArray[100];
